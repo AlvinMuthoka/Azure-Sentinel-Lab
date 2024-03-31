@@ -23,7 +23,11 @@ I left the honeypot open for 3 days to observe live attacks (RDP Brute Force) fr
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<h2>World map of incoming attacks after 72 hours (built custom logs including geodata)</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/nbHhV0J.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
 
 <p align="center">
 <img src="https://i.imgur.com/D5TriUW.jpg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
