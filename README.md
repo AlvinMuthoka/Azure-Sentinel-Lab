@@ -13,7 +13,7 @@ I left the honeypot open for 3 days to observe live attacks (RDP Brute Force) fr
 <br />
 
 <p align="center">
-<img src="https://imgur.com/f5ziXry" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/f5ziXry.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
 
@@ -26,7 +26,7 @@ I left the honeypot open for 3 days to observe live attacks (RDP Brute Force) fr
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="https://imgur.com/D5TriUW" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/D5TriUW.jpg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
