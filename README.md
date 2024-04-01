@@ -7,7 +7,7 @@
 </b>
 <br />
 <br />
-The script is used in this home lab where I setup Azure Sentinel (SIEM) and connect it to a live virtual machine hosted ion Azure acting as a honey pot.
+The script is used in this home lab where I setup Azure Sentinel (SIEM) and connect it to a live virtual machine hosted in Azure acting as a honey pot.
 I left the honeypot open for 3 days to observe live attacks (RDP Brute Force) from all around the world. A custom PowerShell script looks up the attackers geolocation information and plots it on a threat map in Sentinel!
 <br />
 <br />
